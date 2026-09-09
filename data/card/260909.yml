@@ -7,7 +7,7 @@ about:
   latestVersion: "0.9.2"
   latestRelease: "0.9.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:58:00Z
+  collectedAt: 2026-09-09T20:18:10Z
 timeline:
   created: 2021-01-20
   lastCommit: 2026-05-22
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2024-06-15
   lastPrerelease: 
 popularity:
-  star: 3153
+  star: 3152
   watcher: 22
   fork: 256
   release: 24
@@ -87,7 +87,7 @@ total:
   commit: 2427
 ---
 path: /home/runner/.x-repo/github.com/lxgr-linux/pokete
-collectedAt: 2026-09-09T05:58:13Z
+collectedAt: 2026-09-09T20:18:31Z
 loc:
   Python:
     code: 23078
