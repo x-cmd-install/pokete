@@ -1,0 +1,111 @@
+- repo: nix_stable_26_05
+  srcname: pokete
+  visiblename: pokete
+  version: 0.9.1
+  origversion: null
+  status: outdated
+  summary: Terminal based Pokemon like game
+  maintainers:
+    - fgaz@fgaz.me
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: pokete
+  binname: pokete
+  visiblename: pokete
+  version: 0.9.2
+  origversion: 0.9.2-1
+  status: newest
+  summary: A terminal based Pokemon like game
+  maintainers:
+    - kokakiwi@aur
+  licenses:
+    - GPL3
+- repo: aur
+  srcname: pokete-git
+  binname: pokete-git
+  visiblename: pokete-git
+  version: 0.10.0.rc1.r16.gee70b6f7
+  origversion: 0.10.0.rc1.r16.gee70b6f7-1
+  status: rolling
+  summary: A terminal based Pokemon like game
+  maintainers:
+    - lxgr@aur
+  licenses:
+    - GPL-3.0-only
+- repo: libregamewiki
+  srcname: Pokete
+  visiblename: Pokete
+  version: 0.9.2
+  origversion: 0.9.2 (2024-06-14)
+  status: newest
+  categories:
+    - games
+- repo: liguros_stable
+  srcname: games-rpg/pokete
+  visiblename: games-rpg/pokete
+  version: 0.7.3
+  origversion: null
+  status: outdated
+  summary: Terminal-based clone of the game Pokémon
+  maintainers:
+    - games@gentoo.org
+  licenses:
+    - GPL-3
+  categories:
+    - games-rpg
+- repo: nix_stable_24_05
+  srcname: pokete
+  visiblename: pokete
+  version: 0.9.1
+  origversion: null
+  status: outdated
+  summary: A terminal based Pokemon like game
+  maintainers:
+    - fgaz@fgaz.me
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_24_11
+  srcname: pokete
+  visiblename: pokete
+  version: 0.9.1
+  origversion: null
+  status: outdated
+  summary: Terminal based Pokemon like game
+  maintainers:
+    - fgaz@fgaz.me
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_05
+  srcname: pokete
+  visiblename: pokete
+  version: 0.9.1
+  origversion: null
+  status: outdated
+  summary: Terminal based Pokemon like game
+  maintainers:
+    - fgaz@fgaz.me
+  licenses:
+    - GPL-3.0-only
+- repo: nix_stable_25_11
+  srcname: pokete
+  visiblename: pokete
+  version: 0.9.1
+  origversion: null
+  status: outdated
+  summary: Terminal based Pokemon like game
+  maintainers:
+    - fgaz@fgaz.me
+  licenses:
+    - GPL-3.0-only
+- repo: nix_unstable
+  srcname: pokete
+  visiblename: pokete
+  version: 0.9.1
+  origversion: null
+  status: outdated
+  summary: Terminal based Pokemon like game
+  maintainers:
+    - fgaz@fgaz.me
+  licenses:
+    - GPL-3.0-only
