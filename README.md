@@ -4,7 +4,7 @@
 
 A terminal based Pokemon like game
 
-![pokete](https://repo.x-cmd.io/pokete.svg)
+[![x-cmd/install — pokete Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pokete.svg)](https://x-cmd.com/install/pokete)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **30,609** lines of code across **332** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,156 · **Forks**: 254 · **Open issues**: 132 · **Contributors**: 30
+- **Stars**: 3,157 · **Forks**: 254 · **Open issues**: 132 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **30,609** lines of code across **332** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 8 | 3 | 4 | 6 | 23 |
-| 360d | 2025-09-23 | 0 | 16 | 3 | 9 | 7 | 74 |
-| last720d | 2024-09-28 | 0 | 25 | 5 | 25 | 12 | 283 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 8 | 3 | 4 | 6 | 23 |
+| 360d | 2025-09-25 | 0 | 16 | 3 | 9 | 7 | 74 |
+| last720d | 2024-09-30 | 0 | 25 | 5 | 25 | 12 | 282 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for pokete lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:12:34Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:12:31Z._
