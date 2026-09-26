@@ -38,7 +38,7 @@ Total: **30,609** lines of code across **332** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,158 · **Forks**: 255 · **Open issues**: 132 · **Contributors**: 30
+- **Stars**: 3,159 · **Forks**: 255 · **Open issues**: 132 · **Contributors**: 30
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **30,609** lines of code across **332** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-29 | 0 | 8 | 3 | 4 | 6 | 23 |
-| 360d | 2025-09-30 | 0 | 16 | 3 | 9 | 7 | 74 |
-| last720d | 2024-10-05 | 0 | 25 | 5 | 25 | 11 | 278 |
+| 30d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-30 | 0 | 8 | 3 | 4 | 6 | 23 |
+| 360d | 2025-10-01 | 0 | 16 | 3 | 9 | 7 | 74 |
+| last720d | 2024-10-06 | 0 | 25 | 5 | 25 | 11 | 274 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for pokete lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T05:55:38Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T05:58:03Z._
